@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Output directory for compiled files
+dist/
+
+# Webpack and TypeScript temporary files
+*.tsbuildinfo
+
+# Jest coverage and cache directories
+coverage/
+jest_cache/
+
+# Generated files
+*.js
+*.js.map
+*.d.ts
+
+# ESLint cache
+.eslintcache
+
+# MacOS specific files
+.DS_Store
+
+# Logs
+*.log
